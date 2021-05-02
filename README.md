@@ -2,12 +2,14 @@
 ---
 
   * Objectives :
+  
     1. Detect the vanishing points of Hand-drawn cubes.
     2. Compare the real vanishing points with the handrawn vanishing lines.
     3. Provide Illustration of the Error.
     4. 
 ---
   * Tools:
+  
     1. Python
     2. Computer Vision algorithms
     3. ML algorithm (LR)
